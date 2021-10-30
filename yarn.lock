@@ -22409,9 +22409,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shillington.org2@workspace:.":
+"shillington.org@workspace:.":
   version: 0.0.0-use.local
-  resolution: "shillington.org2@workspace:."
+  resolution: "shillington.org@workspace:."
   dependencies:
     "@babel/cli": ^7.10.4
     "@babel/core": ^7.10.4

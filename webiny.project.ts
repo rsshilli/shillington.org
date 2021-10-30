@@ -15,7 +15,7 @@ import cliScaffoldCiCd from "@webiny/cli-plugin-scaffold-ci";
 
 export default {
     template: "@webiny/cwp-template-aws@5.16.0",
-    name: "shillington.org2",
+    name: "shillington.org",
     cli: {
         plugins: [
             cliWorkspaces(),
